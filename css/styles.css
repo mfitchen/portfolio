@@ -44,15 +44,39 @@ ul {
   margin-bottom: 10px;
 }
 
+.contact {
+  color: #ffffff;
+}
+
+.grad {
+  background: linear-gradient(#eeeeee, #fefefe);
+  border: 3px solid white;
+}
+
+#contact {
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 0;
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  }
+
+#grad {
+  background: linear-gradient(to right bottom, #5CB85C, #0CAE4C, #3D753D);
+  border: 3px solid white;
+}
+
 #imgMFitchen {
   max-width: 50%;
   height: auto;
 }
 
-#unHide {
-  margin-top: 70px;
+#imgLogoParagon {
+  max-width: 279px;
+  max-height: 66px;
 }
 
-div {
-  border: 1px solid red;
+#unHide {
+  margin-top: 70px;
 }
